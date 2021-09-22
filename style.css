@@ -31,3 +31,8 @@
 #nav{
     height: 3rem;
 }
+
+.landing{
+    background-image: url(home-img.png);
+    height: 100vh;
+}
