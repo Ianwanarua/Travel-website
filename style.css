@@ -23,7 +23,7 @@
 
 #nav_link:hover{
     color: #C9CB4B;
-    border-bottom: 2px solid #777EBE;
+    border-bottom: 3px solid #777EBE;
     border-bottom-style: inset;
     border-radius: 50%;
 }
