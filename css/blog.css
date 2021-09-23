@@ -19,6 +19,40 @@ display: block;
 }
 .intro-info-content h1{
   position: absolute;
-  top: 5em;
+  top: 8em;
   left: 10em;
+  color: yellow;
+}
+.navbar .navbar-nav .nav-link {
+  color: #310202;
+  font-size: 1.1em;
+}
+.navbar .navbar-nav .nav-link:hover{
+  color: #771212;
+}
+.navbar-logo-centered .navbar-nav .nav-link{
+  padding: .5em 1em;
+}
+
+.nav-item{
+  margin-right: 5rem;
+}
+
+#nav{
+  height: auto;;
+}
+
+#nav_link{
+  color: #777EBE;
+}
+
+#nav_link:hover{
+  color: #C9CB4B;
+  border-bottom: 3px solid #777EBE;
+  border-bottom-style: inset;
+  border-radius: 50%;
+}
+
+#nav{
+  height: 3rem;
 }
