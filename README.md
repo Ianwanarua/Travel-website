@@ -1,5 +1,5 @@
 # MAGICAL TRIPS
-![]()
+![magical trips](assets/read.png)
 
 ## Names of the contributors
 1. Ian Wanarua
@@ -17,7 +17,7 @@
 ## Description of the project purpose
 This is a Travel website that is going to help users find their destination with ease. Users can also book with Magical Trips to wherever they want to go.
 
-## [Live link]()
+## [Live link](https://ianwanarua.github.io/Travel-website/)
 
 ### FOR SUPPORT AND CONTACT
 - [ian.wanarua@student.moringaschool.com]()
