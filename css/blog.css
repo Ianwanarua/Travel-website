@@ -41,7 +41,6 @@ display: block;
 #nav{
   height: 3em;;
 }
-
 #nav_link{
  
   color: #777EBE;
@@ -50,7 +49,7 @@ display: block;
 
 #nav_link:hover{
   color: #C9CB4B;;
- 
+
   border-bottom: 3px solid #777EBE;
   border-bottom-style: inset;
   border-radius: 50%;
