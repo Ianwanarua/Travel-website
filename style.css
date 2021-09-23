@@ -63,3 +63,63 @@ h5 {
 	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
 	background:rgba(255,255,255,0);
 }
+#john{
+    width: 500px;
+    height: 500px;
+    left: 200px;
+    position: relative;
+    -ms-border-radius: 20px;
+      -o-border-radius: 20px;
+      -moz-border-radius: 20px;
+      -webkit-border-radius: 20px;
+      border-radius: 20px;
+      border: 0px solid #000000;
+      -ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+      -o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+      -webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+      -moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+      box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+      background:rgba(255,255,255,0);
+  }
+  #anna{
+    width: 500px;
+    height: 500px;
+    left: 200px;
+    position: relative;
+    -ms-border-radius: 20px;
+      -o-border-radius: 20px;
+      -moz-border-radius: 20px;
+      -webkit-border-radius: 20px;
+      border-radius: 20px;
+      border: 0px solid #000000;
+      -ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+      -o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+      -webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+      -moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+      box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+      background:rgba(255,255,255,0);
+  }
+  #sarah{
+    width: 301.4px;
+    height: 461.34px;
+    -ms-border-radius: 20px;
+      -o-border-radius: 20px;
+      -moz-border-radius: 20px;
+      -webkit-border-radius: 20px;
+      border-radius: 20px;
+      border: 0px solid #000000;
+      -ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+      -o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+      -webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+      -moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+      box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+      background:rgba(255,255,255,0);
+  }
+  #about{
+    font-weight: bold;
+    color: yellow;
+    position: absolute;
+    top: 250px;
+    left: 600px;
+  
+  }
