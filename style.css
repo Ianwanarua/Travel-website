@@ -2,6 +2,12 @@ html{
     scroll-behavior: smooth;
 }
 
+img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
 .navbar .navbar-nav .nav-link {
     color: #310202;
     font-size: 1.1em;
@@ -58,4 +64,8 @@ html{
 .home-button:hover{
     background-color: #777EBE !important;
     color: #C9CB4B !important;
+}
+
+.text{
+    padding-top: 10rem;
 }
