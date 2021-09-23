@@ -27,7 +27,7 @@ body {
     margin: auto;
     padding: 40px;
     overflow: hidden;
-    background-image: url('/assets/img/book.png');
+    background-image: url('../img/book.png');
     background-size: cover;
     border-radius: 5px;
     z-index: 20;

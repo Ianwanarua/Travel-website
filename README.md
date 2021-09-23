@@ -14,7 +14,7 @@
 3. Navigate to the index.html file which is in the root file of the folder. The application is static and only uses HTML and CSS
 
 4. Copy the path of the index.html file to your browser and you will be able to access the application.
-### Description of the project purpose
+## Description of the project purpose
 This is a Travel website that is going to help users find their destination with ease. Users can also book with Magical Trips to wherever they want to go.
 
 ## [Live link]()
@@ -24,4 +24,5 @@ This is a Travel website that is going to help users find their destination with
 - [ian.wanjira@student.moringaschool.com]()
 - [victor.waruguini@student.moringaschool.com]()
 - [nur.tusa@student.moringaschool.com]()
+### THIS FILE IS UNDER [MIT](LICENSE) LICENSE
 ### Copyright @2021 Magical Trips
