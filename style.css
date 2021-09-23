@@ -151,3 +151,33 @@ h5 {
   #design2{
     display: none;
   }
+  #p1{
+    font-size: bolder;
+    font-family: lato;
+    font-weight: bold;
+  }
+  #title{
+    font-family: lato;
+  }
+  #scrum{
+    left: 250px;
+    position: relative;
+  }
+  #scrum2{
+    left: 250px;
+    position: relative;
+  }
+  #hscrum{
+    left: 250px;
+    top: 10px;
+    position: relative;
+  }
+  #web2, #web{
+    position: relative;
+    left: 250px;
+  }
+  #ian{
+    position: relative;
+    left: 250px;
+    top: 10px;
+  }
