@@ -1,0 +1,65 @@
+html,
+body,
+header,
+.jarallax {
+  height: 700px;
+}
+
+@media (max-width: 740px) {
+  html,
+  body,
+  header,
+  .jarallax {
+    height: 100vh;
+  }
+}
+
+@media (min-width: 800px) and (max-width: 850px) {
+  html,
+  body,
+  header,
+  .jarallax {
+    height: 100vh;
+  }
+}
+
+@media (min-width: 560px) and (max-width: 650px) {
+  header .jarallax h1 {
+    margin-bottom: 1.5rem !important;
+  }
+  header .jarallax h5 {
+    margin-bottom: 1.5rem !important;
+  }
+}
+
+@media (max-width: 768px) {
+    .navbar:not(.top-nav-collapse) {
+        background: #3f51b5!important;
+    }
+}
+@media (min-width: 800px) and (max-width: 850px) {
+    .navbar:not(.top-nav-collapse) {
+        background: #3f51b5!important;
+    }
+}
+h5 {
+    letter-spacing: 3px;
+}
+
+
+#maria{
+  width: 500px;
+  height: 500px;
+  -ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 0px solid #000000;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	background:rgba(255,255,255,0);
+}
