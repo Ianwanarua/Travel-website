@@ -1,0 +1,274 @@
+html,
+body,
+header,
+.jarallax {
+  height: 700px;
+}
+
+@media (max-width: 740px) {
+  html,
+  body,
+  header,
+  .jarallax {
+    height: 100vh;
+  }
+}
+
+@media (min-width: 800px) and (max-width: 850px) {
+  html,
+  body,
+  header,
+  .jarallax {
+    height: 100vh;
+  }
+}
+
+@media (min-width: 560px) and (max-width: 650px) {
+  header .jarallax h1 {
+    margin-bottom: 1.5rem !important;
+  }
+  header .jarallax h5 {
+    margin-bottom: 1.5rem !important;
+  }
+}
+
+@media (max-width: 768px) {
+    .navbar:not(.top-nav-collapse) {
+        background: #3f51b5!important;
+    }
+}
+@media (min-width: 800px) and (max-width: 850px) {
+    .navbar:not(.top-nav-collapse) {
+        background: #3f51b5!important;
+    }
+}
+h5 {
+    letter-spacing: 3px;
+}
+
+
+#maria{
+  width: 500px;
+  height: 500px;
+  -ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 0px solid #000000;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	background:rgba(255,255,255,0);
+}
+#john{
+  width: 500px;
+  height: 500px;
+  left: 200px;
+  position: relative;
+  -ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 0px solid #000000;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	background:rgba(255,255,255,0);
+}
+#anna{
+  width: 500px;
+  height: 500px;
+  left: 200px;
+  position: relative;
+  -ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 0px solid #000000;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	background:rgba(255,255,255,0);
+}
+#sarah{
+  width: 301.4px;
+  height: 461.34px;
+  -ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 0px solid #000000;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	background:rgba(255,255,255,0);
+}
+#about{
+  font-weight: bold;
+  color: yellow;
+  position: absolute;
+  top: 250px;
+  left: 600px;
+
+}
+#our{
+  font-weight: bold;
+  color: black;
+}
+#us{
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+}
+p{
+  font-family: Lato;
+  font-size: x-large;
+}
+#development{
+  width: 50px;
+  height: 50px;
+}
+#design{
+  width: 50px;
+  height: 50px;
+}
+#analytics{
+  width: 50px;
+  height: 50px;
+}
+#design2{
+  display: none;
+}
+#p1{
+  font-size: bolder;
+  font-family: lato;
+  font-weight: bold;
+}
+#title{
+  font-family: lato;
+}
+#scrum{
+  left: 250px;
+  position: relative;
+}
+#scrum2{
+  left: 250px;
+  position: relative;
+}
+#hscrum{
+  left: 250px;
+  top: 10px;
+  position: relative;
+}
+#web2, #web{
+  position: relative;
+  left: 250px;
+}
+#ian{
+  position: relative;
+  left: 250px;
+  top: 10px;
+}
+#nur{
+  left: 40px;
+  position: relative;
+  top: 10px;
+}
+#photo, #photo2{
+  position: relative;
+  left: 40px;
+}
+#vickie{
+  top: 10px;
+  position: relative;
+}
+.navbar .navbar-nav .nav-link {
+  color: #310202;
+  font-size: 1.1em;
+}
+.navbar .navbar-nav .nav-link:hover{
+  color: #771212;
+}
+.navbar-logo-centered .navbar-nav .nav-link{
+  padding: .5em 1em;
+}
+
+.nav-item{
+  margin-right: 5rem;
+}
+
+#nav{
+  height: auto;;
+}
+
+#nav_link1{
+  color: #777EBE;
+}
+
+#nav_link1:hover{
+  color: #C9CB4B;
+  border-bottom: 3px solid #777EBE;
+  border-bottom-style: inset;
+  border-radius: 50%;
+}
+
+#nav{
+  height: 3rem;
+}
+
+.landing{
+  background-image: url(https://raw.githubusercontent.com/Ianwanarua/Travel-website/home/logo.png);
+  height: 100vh;
+}
+.navbar .navbar-nav .nav-link1 {
+  color: #310202;
+  font-size: 1.1em;
+}
+.navbar .navbar-nav .nav-link1:hover{
+  color: #771212;
+}
+.navbar-logo-centered .navbar-nav .nav-link1{
+  padding: .5em 1em;
+}
+
+.nav-item{
+  margin-right: 5rem;
+}
+
+#nav{
+  height: auto;;
+}
+
+#nav_link1{
+  color: #ffffff;
+  font-family: lato;
+}
+
+#nav_link1:hover{
+  color: #C9CB4B;
+  border-bottom: 3px solid #777EBE;
+  border-bottom-style: inset;
+  border-radius: 50%;
+}
+
+#nav{
+  height: 3rem;
+}
+
+.landing{
+
+  height: 5vh;
+  background-repeat: no-repeat;
+}
