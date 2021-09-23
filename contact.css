@@ -60,6 +60,6 @@
   }
   .container{
     background-image: url("swim.jpg");
-    background-size: cover;
+   width: 100%;
 
   }
