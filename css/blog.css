@@ -57,3 +57,6 @@ display: block;
 #nav{
   height: 3rem;
 }
+#trip{
+  text-decoration: none;
+}
