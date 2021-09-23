@@ -6,13 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="contact.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"><body>
-    </head>
- <body>
-     
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+</head>
+<body>
     <div class=" container-fluid">
-        <nav class="navbar navbar-expand-lg navbar-light" style="background-color: transparent;" id="nav">
-            <a class="navbar-brand" href="#"><img src="logo.png"></a>
+        <nav class="navbar navbar-expand-lg navbar-light" style="background-color:#D2DBE7;" id="nav">
+            <a class="navbar-brand" href="#"><img src="assets/img/logo.png"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#myNavbarToggler10" aria-controls="myNavbarToggler10" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -34,113 +33,38 @@
                 
             </div>
         </nav>
-
-        <div class="container-fluid mb-5 contact" >
-  
-
-            <div class="row" style="margin-top: -100px;" >
-      
-              <div class="col-md-12">
-      
-                <div class="card pb-5">
-                  <div class="card-body">
-      
-                    <div class="container">
-      
-                      <section class="section">
-
-                        <h2 class="font-weight-bold text-center h1 my-5">Contact us</h2>
-
-                        <p class="text-center grey-text mb-5 mx-auto w-responsive">feel free to contact us if u have any inqueries and if u want to book a place</p>
-      
-                        <div class="row pt-5">
-      
-                          <div class="col-md-8 col-xl-9">
-                            <form>
-      
-                              <div class="row">
-      
-                                <div class="col-md-6">
-                                  <div class="md-form">
-                                    <input type="text" id="contact-name" placeholder="name" class="form-control">
-                                    <label for="contact-name"></label>
-                                  </div>
-                                </div>
-      
-                                <div class="col-md-6">
-                                  <div class="md-form">
-                                    <input type="text" id="contact-email"  placeholder="email" class="form-control">
-                                    <label for="contact-email"></label>
-                                  </div>
-                                </div>
-                                <!--Grid column-->
-      
-                              </div>
-                              <!--Grid row-->
-      
-                              <!--Grid row-->
-                              <div class="row">
-                                <div class="col-md-12">
-                                  <div class="md-form">
-                                    <input type="text" id="contact-Subject" placeholder="subject"class="form-control">
-                                    <label for="contact-Subject" ></label>
-                                  </div>
-                                </div>
-                              </div>
-                              <!--Grid row-->
-      
-                              <!--Grid row-->
-                              <div class="row">
-      
-                                <!--Grid column-->
-                                <div class="col-md-12">
-      
-                                  <div class="md-form">
-                                    <textarea type="text" id="contact-message" placeholder="your message" class="md-textarea form-control" rows="3"></textarea>
-                                    <label for="contact-message"></label>
-                                  </div>
-      
-                                </div>
-                              </div>
-                              <!--Grid row-->
-      
-                            </form>
-      
-                            <div class="text-center text-md-left my-4">
-                              <button type="submit" class="btn btn-success checkout" id="send"  onclick="showName()">
-                                send
-                            </button>                        
-                              </div>
-                          </div>
-      
-      
+    <div id="booking" class="section">
+        <div class="section-center">
+            
+            <div class="container">
+                <div class="row">
+                    <div class="booking-form">
+                        <div class="form-header">
+                            <h1>MAGICAL <span>TRIPS</span></h1>
+                            <h1>Contact Us</h1>
                         </div>
-      
-                      </section>
-      
+                        <form action="http://eepurl.com/hH_Uxr" id="form">
+                            <div class="form-group"> <input class="form-control" type="text" placeholder="Full Names"> <span class="form-label">Full Names</span> </div>
+                            <div class="form-group"> <input class="form-control" type="text" placeholder="Full Names"> <span class="form-label">Full Names</span> </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group"> <input class="form-control" type="email" placeholder="Enter your Email"> <span class="form-label">Email</span> </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group"> <input class="form-control" type="tel" placeholder="Enter you Phone"> <span class="form-label">Phone</span> </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <textarea class="form-control"  id="comment" name="text" rows="12" placeholder="Your Message here..." ></textarea>
+                            </div>
+                            <div class="form-btn"> <button class="submit-btn">Submit</button> </div>
+                        </form>
                     </div>
-                  </div>
-      
                 </div>
-      
-              </div>
-      
             </div>
-      
-          </div>
-      
+        </div>
     </div>
-    
-    <footer>
-      <!-- Copyright -->
-     <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-         © 2020 Copyright:
-         <a class="text-dark">Magical Trips</a>
-     </div>
-   <!-- Copyright -->
- </footer>   
-    
-      
-      <script src="contact.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="cont.js"></script>
 </body>
 </html>
