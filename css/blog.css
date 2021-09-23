@@ -43,11 +43,14 @@ display: block;
 }
 
 #nav_link{
+ 
   color: #777EBE;
+  font-weight: 500;
 }
 
 #nav_link:hover{
-  color: #C9CB4B;
+  color: #C9CB4B;;
+ 
   border-bottom: 3px solid #777EBE;
   border-bottom-style: inset;
   border-radius: 50%;
