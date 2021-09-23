@@ -19,3 +19,9 @@ This is a Travel website that is going to help users find their destination with
 
 ## [Live link]()
 
+### FOR SUPPORT AND CONTACT
+- [ian.wanarua@student.moringaschool.com]()
+- [ian.wanjira@student.moringaschool.com]()
+- [victor.waruguini@student.moringaschool.com]()
+- [nur.tusa@student.moringaschool.com]()
+### Copyright @2021 Magical Trips
