@@ -181,3 +181,16 @@ h5 {
     left: 250px;
     top: 10px;
   }
+  #nur{
+    left: 40px;
+    position: relative;
+    top: 10px;
+  }
+  #photo, #photo2{
+    position: relative;
+    left: 40px;
+  }
+  #vickie{
+    top: 10px;
+    position: relative;
+  }
